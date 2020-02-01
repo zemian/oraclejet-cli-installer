@@ -3,4 +3,4 @@ node_modules/
 temp/
 
 # Ignore example created by readme instructions
-my-app/
+my-app*/

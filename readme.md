@@ -16,7 +16,7 @@ You will need to install NodeJS (https://nodejs.org/en/) first.
 ```
 cd oraclejet-cli-installer
 npm install
-npx ojet create --template=basic my-app
+npx ojet create my-app --template=basic
 cd my-app
 npm install --save-dev '@oracle/ojet-cli'
 npx ojet serve
