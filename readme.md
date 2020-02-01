@@ -28,7 +28,7 @@ Have fun programming!
 
 The official site tells you to install `ojet-cli` in global space like this:
 
-  npm install -g '@oracle/ojet-cli'
+```npm install -g '@oracle/ojet-cli'```
 
 This works just fine. The instruction I gave about will install it as part of your
 project. One benefit of doing that way is so you may have different version of OJET
