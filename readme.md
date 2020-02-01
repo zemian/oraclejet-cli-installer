@@ -12,6 +12,7 @@ You will need to install NodeJS (https://nodejs.org/en/) first.
 ## How to setup installer to create new OJET project
 
 ```
+cd oraclejet-cli-installer
 npm install
 npx ojet create --template=basic my-app
 cd my-app
