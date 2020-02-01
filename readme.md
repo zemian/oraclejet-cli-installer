@@ -20,6 +20,7 @@ npx ojet create --template=basic my-app
 cd my-app
 npm install --save-dev '@oracle/ojet-cli'
 npx ojet serve
+# open http://localhost:8080
 ```
 
 After you verify your application is up and running, you may move it out
