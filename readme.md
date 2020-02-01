@@ -27,10 +27,10 @@ Have fun programming!
 
 ## Why is your instructions different from the official site?
 
-The official site tells you to install `ojet-cli` in global space like this:
+The official site tells you to install `ojet` command in global space like this:
 
 ```npm install -g '@oracle/ojet-cli'```
 
-This works just fine. The instruction I gave about will install it as part of your
-project. One benefit of doing that way is so you may have different version of OJET
+This works just fine. The instruction I gave above will install it as part of your
+project, and you will run `npx ojet` instead. One benefit of doing that way is so you may have different version of OJET
 toolings in your workspace.
