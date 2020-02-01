@@ -1,5 +1,6 @@
 node_modules/
 .DS_Store/
+temp/
 
 # Ignore example created by readme instructions
 my-app/
