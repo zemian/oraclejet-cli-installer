@@ -13,8 +13,23 @@ You will need to install NodeJS (https://nodejs.org/en/) first.
 
 ```
 npm install
-npx ojet create my-app
+npx ojet create --template=basic my-app
 cd my-app
 npm install --save-dev '@oracle/ojet-cli'
-npx ojet serve web
+npx ojet serve
 ```
+
+After you verify your application is up and running, you may move it out
+of this directory and make it as your independent project.
+
+Have fun programming!
+
+## Why is your instructions different from the official site?
+
+The official site tells you to install `ojet-cli` in global space like this:
+
+  npm install -g '@oracle/ojet-cli'
+
+This works just fine. The instruction I gave about will install it as part of your
+project. One benefit of doing that way is so you may have different version of OJET
+toolings in your workspace.

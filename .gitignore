@@ -1,2 +1,5 @@
 node_modules/
 .DS_Store/
+
+# Ignore example created by readme instructions
+my-app/
