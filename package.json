@@ -10,6 +10,6 @@
   "author": "",
   "license": "ISC",
   "devDependencies": {
-    "@oracle/ojet-cli": "^7.2.0"
+    "@oracle/ojet-cli": "^8.0.0"
   }
 }
